@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @preccrep
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning NLP.
+- 🌱 什么都尝试过一点，，，
 - 💞️ I’m looking to collaborate on every project I could do.
 - 📫 preccrepad@gmail.com
 
