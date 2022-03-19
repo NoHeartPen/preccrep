@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 ### Stats
 
-[![preccrep's github stats](https://github-readme-stats.vercel.app/api?username=preccrep&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![preccrep's github stats](https://github-readme-stats.vercel.app/api?username=preccrep&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
