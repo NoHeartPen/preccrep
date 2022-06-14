@@ -11,21 +11,25 @@ You can click the Preview link to take a look at your changes.
                                                                 
 ```
 
+## Some of My GitHub Stats
+
+<p align="center">
+  <img align="center" width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=preccrep&show_icons=true&hide_border=false&line_height=20&show_owner=true&theme=tokyonight"/>
+  <img align="center" width="500" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preccrep&layout=compact&hide=HTML&langs_count=10&theme=shades-of-purple"/>
+</p>
+
+
 ## About Me
 
 <p align="center">
   <a href="https://twitter.com/preccrep"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/preccrep?color=a2c4c9&logoColor=ffe599&style=for-the-badge">
   <a href="https://www.preccrep.com/"><img alt="PersonalBlog" src="https://img.shields.io/static/v1?label=personalblog&message=preccrep&color=f4cccc&style=for-the-badge">
   <a href="https://www.cnblogs.com/preccrep"><img alt="CNBlog" src="https://img.shields.io/static/v1?label=cnblog&message=preccrep&color=b4a7d6&style=for-the-badge">
-<!--   <a href="mailto:preccrep0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Alexander%20John%20Pinches-blue?style=for-the-badge&logo=gmail"></a> -->
+  <a href="mailto:preccrep0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-preccrep-orange?style=for-the-badge&logo=gmail"></a>
 </p>
     
     I'm a student currently studying computer science.
 
-<p align="center">
-  <img align="center" width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=preccrep&show_icons=true&hide_border=false&line_height=20&show_owner=true&theme=tokyonight"/>
-  <img align="center" width="500" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preccrep&layout=compact&hide=HTML&langs_count=10&theme=shades-of-purple"/>
-</p>
 
 **I'm a Night 🦉** 
 
@@ -60,12 +64,10 @@ Sunday       26 commits     ██░░░░░░░░░░░░░░░�
 <img src="https://img.shields.io/badge/-CSS-E19F8A?style=for-the-badge&logo=css3"/>
 <!--END_SECTION:colourise-->
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=preccrep" /> </div>
-
-
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=preccrep&theme=xcode" /> </div>
-
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=preccrep" /> </div>
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=preccrep" /> </div>
+
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=preccrep" /> </div>
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=preccrep&theme=xcode" /> </div>
