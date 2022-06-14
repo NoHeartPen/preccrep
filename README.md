@@ -5,21 +5,23 @@ You can click the Preview link to take a look at your changes.
 
 ```
 
-  _____   ______ _______ _______ _______  ______ _______  _____ 
- |_____] |_____/ |______ |       |       |_____/ |______ |_____]
- |       |    \_ |______ |_____  |_____  |    \_ |______ |      
-                                                                
+      ___         ___           ___           ___           ___           ___           ___           ___   
+     /  /\       /  /\         /  /\         /  /\         /  /\         /  /\         /  /\         /  /\  
+    /  /::\     /  /::\       /  /:/_       /  /:/        /  /:/        /  /::\       /  /:/_       /  /::\ 
+   /  /:/\:\   /  /:/\:\     /  /:/ /\     /  /:/        /  /:/        /  /:/\:\     /  /:/ /\     /  /:/\:\
+  /  /:/~/:/  /  /:/~/:/    /  /:/ /:/_   /  /:/  ___   /  /:/  ___   /  /:/~/:/    /  /:/ /:/_   /  /:/~/:/
+ /__/:/ /:/  /__/:/ /:/___ /__/:/ /:/ /\ /__/:/  /  /\ /__/:/  /  /\ /__/:/ /:/___ /__/:/ /:/ /\ /__/:/ /:/ 
+ \  \:\/:/   \  \:\/:::::/ \  \:\/:/ /:/ \  \:\ /  /:/ \  \:\ /  /:/ \  \:\/:::::/ \  \:\/:/ /:/ \  \:\/:/  
+  \  \::/     \  \::/~~~~   \  \::/ /:/   \  \:\  /:/   \  \:\  /:/   \  \::/~~~~   \  \::/ /:/   \  \::/   
+   \  \:\      \  \:\        \  \:\/:/     \  \:\/:/     \  \:\/:/     \  \:\        \  \:\/:/     \  \:\   
+    \  \:\      \  \:\        \  \::/       \  \::/       \  \::/       \  \:\        \  \::/       \  \:\  
+     \__\/       \__\/         \__\/         \__\/         \__\/         \__\/         \__\/         \__\/  
+
+
 ```
 
-## Some of My GitHub Stats
-
-<p align="center">
-  <img align="center" width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=preccrep&show_icons=true&hide_border=false&line_height=20&show_owner=true&theme=tokyonight"/>
-  <img align="center" width="500" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preccrep&layout=compact&hide=HTML&langs_count=10&theme=shades-of-purple"/>
-</p>
-
-
-## About Me
+![preccrep GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=preccrep&show_icons=true&theme=radical)
+![preccrep GitHub stats](https://github-readme-stats.vercel.app/api?username=preccrep&show_icons=true&theme=tokyonight)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&size=30&duration=7000&background=E4E4E400&lines=Hey+I'm+preccrep!;I'm+a+CS+student.;I+love+coding.;A+big+fan+of+anime...)](https://git.io/typing-svg)
 
@@ -66,7 +68,7 @@ Sunday       26 commits     ██░░░░░░░░░░░░░░░�
 <img src="https://img.shields.io/badge/-CSS-E19F8A?style=for-the-badge&logo=css3"/>
 <!--END_SECTION:colourise-->
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=preccrep" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=preccrep&theme=radical" /> </div>
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=preccrep" /> </div>
 
