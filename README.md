@@ -10,49 +10,59 @@ You can click the Preview link to take a look at your changes.
  |       |    \_ |______ |_____  |_____  |    \_ |______ |      
                                                                 
 ```
+
+## About Me
+
 <p align="center">
-  <a href="https://github.com/preccrep" target="_blank" rel="noopener noreferrer">
-      <img src="https://forthebadge.com/images/badges/open-source.svg" alt="open source badge" />
-  <a href="https://preccrep.github.io/" target="_blank" rel="noopener noreferrer">
-      <img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="check it out badge" />
+  <a href="https://twitter.com/preccrep"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/preccrep?color=a2c4c9&logoColor=ffe599&style=for-the-badge">
+  <a href="https://www.preccrep.com/"><img alt="PersonalBlog" src="https://img.shields.io/static/v1?label=personalblog&message=preccrep&color=f4cccc&style=for-the-badge">
+  <a href="https://www.cnblogs.com/preccrep"><img alt="CNBlog" src="https://img.shields.io/static/v1?label=cnblog&message=preccrep&color=b4a7d6&style=for-the-badge">
+<!--   <a href="mailto:preccrep0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Alexander%20John%20Pinches-blue?style=for-the-badge&logo=gmail"></a> -->
+</p>
+    
+    I'm a student currently studying computer science.
+
+<p align="center">
+  <img align="center" width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=preccrep&show_icons=true&hide_border=false&line_height=20&show_owner=true&theme=tokyonight"/>
+  <img align="center" width="500" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preccrep&layout=compact&hide=HTML&langs_count=10&theme=shades-of-purple"/>
 </p>
 
-[![preccrep's github stats](https://github-readme-stats.vercel.app/api?username=preccrep&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preccrep&theme=shades-of-purple&layout=compact)
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+🌆 Daytime    87 commits     ██████░░░░░░░░░░░░░░░░░░░   26.93% 
+🌃 Evening    42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
+🌙 Night      137 commits    ██████████░░░░░░░░░░░░░░░   42.41%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
+Tuesday      52 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.1% 
+Wednesday    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+Thursday     80 commits     ██████░░░░░░░░░░░░░░░░░░░   24.77% 
+Friday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.74% 
+Saturday     41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.69% 
+Sunday       26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.05%
+
+```
+
+<!--START_SECTION:colourise-->
+<p align=center>
+<img src="https://img.shields.io/badge/-C++-80953D?style=for-the-badge&logo=c%2b%2b"/>
+<img src="https://img.shields.io/badge/-Java-235548?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/-Swift-B32D51?style=for-the-badge&logo=swift"/>
+<img src="https://img.shields.io/badge/-Python-92B9D8?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/-JavaScript-00FFFF?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/-HTML5-523D95?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/-CSS-E19F8A?style=for-the-badge&logo=css3"/>
+<!--END_SECTION:colourise-->
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=preccrep" /> </div>
 
 
-<!-- <a href="https://github.com/preccrep" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="built by developers badge" /> -->
-
-<!-- <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span> -->
-
-<!-- <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
-  <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-</a>
-<a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
-  <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-</a> -->
-
-<!-- <p align="center">
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
- </a>
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="made with markdown badge" />
- </a>
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/open-source.svg" alt="open source badge" />
- </a>
- <br />
- <a href="https://eddiehubcommunity.github.io/awesome-github-profiles/" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="check it out badge" />
- </a>
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="built by developers badge" />
- </a>
-</p> -->
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=preccrep&theme=xcode" /> </div>
 
